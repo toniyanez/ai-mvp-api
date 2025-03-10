@@ -1,6 +1,4 @@
-(
-echo flask
-echo requests
-echo python-dotenv
-echo gunicorn
-) > requirements.txt
+flask
+requests
+python-dotenv
+gunicorn
