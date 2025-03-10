@@ -1,0 +1,4 @@
+echo "flask
+requests
+python-dotenv
+gunicorn" > requirements.txt
